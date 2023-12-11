@@ -1,6 +1,7 @@
 # ECON211_Yiwei_Final_Project
 This repository is the final project for STATS201.The project applies the Alpaca-LoRA method to fine-tune large language models to analyze impact of news on gold prices
 ## Project information
+- Author: Yiwei Liang, Computation and Design with tracks in Computer Science, Class of 2025, Duke Kunshan University
 - Instructor: Prof. Luyao Zhang, Duke Kunshan University
 - Acknowledgments: I extend my deepest gratitude to Prof. Luyao Zhang for their unwavering guidance, expertise, and encouragement, which helped me finish this project.
 - Disclaimer: Submissions to the Final Project for ECON211 Intelligent Economics: An Explainable AI Approach , 2023 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
