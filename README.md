@@ -1,5 +1,10 @@
 # ECON211_Yiwei_Final_Project
 This repository is the final project for STATS201.The project applies the Alpaca-LoRA method to fine-tune large language models to analyze impact of news on gold prices
+## Project information
+- Instructor: Prof. Luyao Zhang, Duke Kunshan University
+- Acknowledgments: I extend my deepest gratitude to Prof. Luyao Zhang for their unwavering guidance, expertise, and encouragement, which helped me finish this project.
+- Disclaimer: Submissions to the Final Project for ECON211 Intelligent Economics: An Explainable AI Approach , 2023 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- Project summary: This project deploys Alpaca-LoRA to fine-tune the LlaMA2 model for analyzing gold prices via news articles. It gathers diverse gold-related news from reputable sources, preprocesses it, and integrates sentiment analysis. Alpaca-LoRA optimizes the LlaMA2 model, enhancing its relevance in the gold price analysis. LlaMA2 undergoes fine-tuning, incorporating insights from the adapted model for precise gold price prediction. This novel approach refines large language models, enabling a new approach to the analysis of gold prices from news data, and aiding informed financial decision-making.
 ## Table of Contents
 - [ECON211_Yiwei_Final_Project](#econ211_yiwei_final_project)
   - [Literature](#literature)
