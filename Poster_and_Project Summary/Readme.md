@@ -13,7 +13,28 @@
 M- odel Training and Evaluation: Train the adapted LlaMA2 model with preprocessed data and insights. Evaluate its performance using metrics like accuracy, precision, recall.
 # Results
 - Insights Generation: Interpret and present quantitative and qualitative insights derived from the model's predictions, showcasing the effectiveness of utilizing large language models for gold price analysis based on news.
-![](ECON211_Yiwei_Final_Project\Result\1.png)
+![](Result\1.png)
+![](Result\2.png)
+![](Result\3.png)
+![](Result\4.png)
+![](Result\5.png)
 # Intellectual Merits and Practical impacts 
+- This project pioneers the application of Alpaca-LoRA to fine-tune the LlaMA2 model, revolutionizing gold price analysis via news articles. By integrating diverse gold-related news, robust preprocessing, and sentiment analysis, it establishes a cutting-edge approach. This advancement enhances LlaMA2's accuracy, offering precise gold price forecasts. Practically, it transforms financial decision-making by surpassing traditional methods. The refined analysis aids investors and analysts in navigating the volatile gold market. Using reputable data sources and rigorous preprocessing sets a new standard in financial analysis. The research demonstrates the effectiveness of large language models in predicting gold price trends from news data, fostering more accurate predictions and proactive investment strategies. Ultimately, it empowers stakeholders with a reliable tool for navigating the complexities of real-time gold price fluctuations, reshaping how financial analyses are conducted and decisions made.
 # Poster
+- ![](ECON211.png)
 # Citations
+```
+@article{aruna2021prediction,
+  title={Prediction of potential gold prices using machine learning approach},
+  author={Aruna, S and Umamaheswari, P and Sujipriya, J and others},
+  journal={Annals of the Romanian Society for Cell Biology},
+  pages={1385--1396},
+  year={2021}
+}
+@article{hu2021lora,
+  title={Lora: Low-rank adaptation of large language models},
+  author={Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and Wang, Shean and Wang, Lu and Chen, Weizhu},
+  journal={arXiv preprint arXiv:2106.09685},
+  year={2021}
+}
+```
